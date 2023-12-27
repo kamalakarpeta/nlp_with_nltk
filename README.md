@@ -23,7 +23,7 @@ You can install the library using pip:
 
 pip install nltk
 ## GitHub Repository
-The code for this NLP pipeline can be found in the following GitHub repository: [Link to GitHub Repository](https://github.com/example-repo)
+The code for this NLP pipeline can be found in the following GitHub repository: [Link to GitHub Repository](https://github.com/kamalakarpeta/nlp_with_nltk)
 
 ## Conclusion
 In summary, this Jupyter Notebook provides a basic introduction to NLP techniques using NLTK for sentiment analysis on the movie reviews dataset. It covers steps such as data preprocessing, feature extraction, model training, and evaluation. The provided code serves as a starting point for sentiment analysis tasks and can be further improved by exploring advanced techniques, selecting more sophisticated models, augmenting the training data, fine-tuning the models, and tuning hyperparameters.
